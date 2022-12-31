@@ -1,0 +1,11 @@
+div .navbar-brand{
+    font-size: 20px;	
+    }
+.navbar-toggler:focus,.navbar-toggler:active,.navbar-toggler-icon:focus{
+    outline-color:#84d7c1;
+
+
+}
+.container{
+    height: 500px;
+}
