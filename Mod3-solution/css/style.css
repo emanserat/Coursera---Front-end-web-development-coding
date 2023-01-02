@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div .navbar-brand{
     font-size: 20px;	
     }
@@ -9,3 +10,16 @@ div .navbar-brand{
 .container{
     height: 500px;
 }
+=======
+div .navbar-brand{
+    font-size: 20px;	
+    }
+.navbar-toggler:focus,.navbar-toggler:active,.navbar-toggler-icon:focus{
+    outline-color:#84d7c1;
+
+
+}
+.container{
+    height: 500px;
+}
+>>>>>>> 81f3cee5d0fe6bd574e216b8d14d4d09d467d371
